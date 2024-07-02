@@ -3,9 +3,9 @@ DerivedDataCache
 Intermediate
 Saved
 # 以下不上传到GITHUB,容量太大
-/Content/Blueprints/Characters
-/Content/InfinityBladeEffects
-/Content/StarterContent
+/Content/Blueprints/Characters/
+/Content/InfinityBladeEffects/
+/Content/StarterContent/
 #
 .vscode
 .vs
